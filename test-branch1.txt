@@ -3,7 +3,6 @@ branch text-1
 branch text-2
 branch text-3
 branch text-4
-Edit by branch-1.2
   ^ branch text-1
   ^ branch text-1.1
   ^ branch text-2
