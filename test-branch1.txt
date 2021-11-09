@@ -1,4 +1,4 @@
-Example for branche
+Example for branch
 branch text-1
 branch text-2
 branch text-3
