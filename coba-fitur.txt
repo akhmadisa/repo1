@@ -1,2 +1,3 @@
 Ini untuk mencoba fitur Rebase pada Git. Silahkan rubah file ini.
-    ^ Ini saya coba edit file dari akun GitHub akhmadisa pada komputer lokal saya
+    ^ Ini saya coba edit file dari akun GitHub akhmadisa pada lokal kompter saya
+    ^ Ini perubahan kedua dari akun GitHub akhmadisa pada lokal komputer saya
